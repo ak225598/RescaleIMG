@@ -1,0 +1,2 @@
+# RescaleIMG
+Machine learning project
